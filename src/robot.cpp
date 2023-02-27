@@ -30,6 +30,5 @@ int main()
 		else y -= num;
     }
     cout << x << " " << y << endl;
-    cout <<":";
     return 0;
 }
