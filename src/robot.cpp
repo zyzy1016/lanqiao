@@ -30,5 +30,6 @@ int main()
 		else y -= num;
     }
     cout << x << " " << y << endl;
+    cout<<"asdfafd";
     return 0;
 }
